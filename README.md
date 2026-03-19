@@ -1,2 +1,5 @@
 # DDuas
-Empresa em Parceria de Analises de Dados e Monitoramento para Empresas
+Consultoria de Data Science para Empresas
+
+# Atuação
+Consultoria e desenvolvimento de pipeline de Analise de dados e monitoramento de mercado
